@@ -4,3 +4,11 @@ html {
   background-color: #2C4762;
 }
 
+header {
+  height: 75px;
+  border-bottom: 2px solid white; 
+}
+
+#logo {
+  font-size: 80px;
+}
