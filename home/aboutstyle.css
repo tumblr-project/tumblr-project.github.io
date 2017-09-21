@@ -1,1 +1,9 @@
+header {
+  border-bottom: 2px solid white; 
+  text-shadow: 10px 12px black;
+}
 
+#logo {
+  font-size: 80px;
+  margin: 0px;
+}
