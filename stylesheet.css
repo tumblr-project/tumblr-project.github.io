@@ -15,5 +15,9 @@ header {
 
 #dark {
   background-color: dark-blue;
+  margin-left: auto;
+  margin-right: auto;
+  height: 2000px;
+  width: 1200px;
 }
   
