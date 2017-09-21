@@ -7,3 +7,9 @@ header {
   font-size: 80px;
   margin: 0px;
 }
+
+html {
+  font-family: arial;
+  color: white;
+  background-color: #2C4762;
+}
