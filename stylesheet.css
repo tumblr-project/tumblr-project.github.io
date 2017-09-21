@@ -40,5 +40,6 @@ header {
   font-size: 50px;
   font-weight: bold;
   border: 2px bevel white;
+  text-shadow: 5px 6px black;
 }
   
