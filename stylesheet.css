@@ -12,3 +12,8 @@ header {
   font-size: 80px;
   margin: 0px;
 }
+
+#dark {
+  background-color: dark-blue;
+}
+  
