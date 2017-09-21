@@ -21,5 +21,13 @@ header {
   width: 900px;
   border-radius: 100px;
   margin-top: 50px;
+  text-align: center;
+  font-size: 75px;
+}
+
+#tumblr {
+  font-size: 80px;
+  text-decoration: underline;
+  font-weight: bold;
 }
   
