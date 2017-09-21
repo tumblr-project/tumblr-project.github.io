@@ -14,10 +14,11 @@ header {
 }
 
 #dark {
-  background-color: dark-blue;
+  background-color: #003366;
   margin-left: auto;
   margin-right: auto;
-  height: 2000px;
+  height: 1000px;
   width: 1200px;
+  border-radius: 25px;
 }
   
