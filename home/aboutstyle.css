@@ -27,3 +27,8 @@ html {
 section {
  border-bottom: 2px solid white; 
 }
+
+#big {
+  font-size: 200px;
+  font-weight: bold;
+}
