@@ -21,6 +21,7 @@ html {
   font-weight: bold;
   border: 2px bevel white;
   text-shadow: 5px 6px black;
+  margin-top: 10px;
 }
 
 section {
