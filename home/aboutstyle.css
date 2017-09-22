@@ -22,3 +22,7 @@ html {
   border: 2px bevel white;
   text-shadow: 5px 6px black;
 }
+
+section {
+ border-bottom: 2px solid white; 
+}
