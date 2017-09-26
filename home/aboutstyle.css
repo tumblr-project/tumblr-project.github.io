@@ -33,3 +33,7 @@ section {
   font-weight: bold;
   font-family: cursive;
 }
+
+footer h1, footer h2 {
+  text-decoration: underline
+}
